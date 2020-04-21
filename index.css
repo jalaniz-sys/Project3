@@ -1,0 +1,50 @@
+body
+{
+	background-color:#ff9999;
+}
+.nav
+{
+	text-align:center;
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:5px solid #F0F8FF;
+	background-color:ivory;
+	font-family: 'Inconsolata', monospace;
+	text-transform: uppercase;
+
+}
+.nav li
+{
+	display:inline-block;
+	
+}
+
+.nav a
+{
+	color:black;
+	display:inline-block;
+	padding:12px;
+}
+
+h2,h4
+{
+	font-family: 'Noto Sans', sans-serif;
+
+	text-align: left;
+	color:white;
+	text-decoration:underline;
+	text-decoration-style:double;
+	
+}
+h1
+{
+	display:inline-block;
+}
+ul.p 
+{
+	font-family: 'Noto Sans', sans-serif;
+
+	font-size: 17px;
+}
+
