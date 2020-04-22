@@ -1,5 +1,5 @@
 var mapa;
-function intitMap()
+function initMap()
 {
 mapa=new google.maps.Map(
 		document.getElementById('mapa'),
